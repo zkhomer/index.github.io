@@ -1,2 +1,0 @@
-# mogo.github.io
-hello!
